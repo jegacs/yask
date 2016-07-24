@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.top-nav-bar {
+    
+    ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 10px 10px 10px 10px;    
+	overflow: hidden;
+	background-color: #2C616C;
+    }
+    li {
+	display: inline;
+	color: white;
+    }
+
+}
